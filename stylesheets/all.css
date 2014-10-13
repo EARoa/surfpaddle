@@ -636,14 +636,14 @@ input[type="submit"] {
     max-width: 60%; } }
 /* line 248, /Users/EA_Roa/Desktop/Surf/Surf-Paddle/source/stylesheets/all.scss */
 .grid-items .grid-item-image-nyan {
-  background: url(/images/nyan.gif);
+  background: url(http://portfolio.earoa.com/nyan.gif);
   background-color: #1274ff;
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover; }
 /* line 257, /Users/EA_Roa/Desktop/Surf/Surf-Paddle/source/stylesheets/all.scss */
 .grid-items .grid-item-image-doge {
-  background: url(/images/doge.gif);
+  background: url(http://portfolio.earoa.com/doge.gif);
   background-color: #1274ff;
   background-repeat: no-repeat;
   background-position: center;
